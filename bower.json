@@ -1,0 +1,23 @@
+{
+  "name": "Base Theme",
+  "description": "Starting point for custom bootstrap themes.",
+  "main": "",
+  "authors": [
+    "Joshua Moon <joshua@moon.uk.net>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Shojy/bootstrap-base",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5"
+  }
+}
