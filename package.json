@@ -1,7 +1,7 @@
 {
-  "name": "test-project",
+  "name": "Base Theme",
   "version": "0.0.1",
-  "description": "Sample project for learning tools.",
+  "description": "Starting point for custom bootstrap themes.",
   "devDependencies": {
     "autoprefixer": "^6.0.3",
     "bower": "^1.6.5",
